@@ -1,0 +1,25 @@
+<p align="center"><img width="128" src="https://raw.githubusercontent.com/await-widget/.github/refs/heads/main/assets/app-icon.webp" /></p>
+
+<h1 align="center">Awesome Await Widgets</h1>
+
+<p align="center">A curated list of Await widgets, examples, resources, and tools.</p>
+
+<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" /></a></p>
+
+<p align="center"><a href="https://apps.apple.com/app/id6755678187"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" /></a></p>
+
+## Widgets
+
+- [Image Display](https://github.com/LitoMore/await-widgets/blob/main/widgets/image-display) - Displays a configurable image URL with contain, cover, stretch, or tile behavior.
+- [Simple Icons Wall](https://github.com/LitoMore/await-widgets/blob/main/widgets/simple-icons-wall) - Renders a configurable Simple Icons wall.
+- [TRMNL](https://github.com/LitoMore/await-widgets/blob/main/widgets/trmnl) - Shows the current TRMNL display image using a TRMNL device API key.
+
+## Contributing
+
+Contributions are welcome.
+
+Please open an issue or pull request to suggest a widget, example, resource, or tool.
+
+## License
+
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
