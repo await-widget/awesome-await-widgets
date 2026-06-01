@@ -4,9 +4,11 @@
 
 <p align="center">A curated list of Await widgets, examples, resources, and tools.</p>
 
-<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" /></a></p>
-
-<p align="center"><a href="https://apps.apple.com/app/id6755678187"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" /></a></p>
+<p align="center">
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" /></a>
+<br />
+<a href="https://apps.apple.com/app/id6755678187"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" /></a>
+</p>
 
 ## Widgets
 
