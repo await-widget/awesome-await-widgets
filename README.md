@@ -17,6 +17,7 @@
 - [Measure](https://github.com/LitoMore/await-widgets/blob/main/widgets/measure) - A development widget that displays the current widget size and corner radius of the host device.
 - [Simple Icons Wall](https://github.com/LitoMore/await-widgets/blob/main/widgets/simple-icons-wall) - Renders a configurable Simple Icons wall.
 - [TRMNL](https://github.com/LitoMore/await-widgets/blob/main/widgets/trmnl) - Shows the current TRMNL display image using a TRMNL device API key.
+- [Agent Usage](https://github.com/mogita/await-agent-usage) - Easy-to-read real-time Claude.ai usage on your iOS or macOS devices.
 
 ## Contributing
 
