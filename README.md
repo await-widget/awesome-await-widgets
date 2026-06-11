@@ -14,6 +14,7 @@
 
 - [Agent Usage](https://github.com/mogita/await-agent-usage) - Easy-to-read real-time Claude.ai usage on your iOS or macOS devices.
 - [Browserless.io](https://github.com/LitoMore/await-widgets/blob/main/widgets/browserless-io) - Captures and displays a Browserless.io screenshot sized to the widget.
+- [Health](https://github.com/mogita/await-health-widget) - A health data visualization widget.
 - [Image Display](https://github.com/LitoMore/await-widgets/blob/main/widgets/image-display) - Displays a configurable image URL with contain, cover, stretch, or tile behavior.
 - [Measure](https://github.com/LitoMore/await-widgets/blob/main/widgets/measure) - A development widget that displays the current widget size and corner radius of the host device.
 - [Simple Icons Wall](https://github.com/LitoMore/await-widgets/blob/main/widgets/simple-icons-wall) - Renders a configurable Simple Icons wall.
